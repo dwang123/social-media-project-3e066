@@ -1,0 +1,22 @@
+/*Sources of Errors: positioning of Propic and search bar moves as window is made smaller*/
+#search{
+ position: absolute;
+ top: 20%;
+    left: 35%;
+    
+}
+.input[type=text] {
+    width: 130px;
+
+}
+#topBar{
+  padding: 10px;
+  background: yellow;
+  border: 5px yellow;
+}
+
+#proPic{
+   position: absolute;
+ top: 20%;
+    right: 10%;
+}
